@@ -1,2 +1,2 @@
-FORM tomcat:9
+FROM tomcat:9
 EXPOSE 8080
