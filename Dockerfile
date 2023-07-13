@@ -1,0 +1,2 @@
+FORM tomcat:9
+EXPOSE 8080
